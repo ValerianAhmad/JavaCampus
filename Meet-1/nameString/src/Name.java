@@ -4,7 +4,8 @@ public class Name {
         String firstName = "Valerian";
         String lastName = "Ahmad Fauzian";
         String fullName = "Valerian Ahmad Fauzian.";
-        System.out.println(fullName);
+        String nim = "24030013";
+        System.out.println(fullName + " - " + nim);
     }
 }
 
